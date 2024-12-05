@@ -9,6 +9,7 @@ Este projeto, desenvolvido como parte do Trabalho de Conclusão do Curso de Enge
 Utilizando o framework MediaPipe, o sistema realiza a detecção de pontos ao redor dos olhos e calcula a distância entre eles. Com base nessa informação, é emitido um sinal sonoro por meio de um buzzer para alertar o usuário. Além disso, dois LEDs indicadores são utilizados para auxiliar o usuário no posicionamento correto da câmera.
 
 Diagrama do sistema
+
 ![Diagrama Final](assets/diagrama_final.png)
 
 ### **Tecnologias utilizadas** 💡
