@@ -15,7 +15,7 @@ Diagrama do sistema
 
 - MediaPipe
 - Python
-- Raspberry PI 3b
+- Raspberry PI 3B
 
 ## 📋Requisitos 
 
