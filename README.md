@@ -32,7 +32,7 @@ Diagrama do sistema
 
 ## 🧪Experimento
 
-Clique [aqui](https://youtu.be/U2tNWzFKFI8) para visualizar o experimento realizado
+https://github.com/user-attachments/assets/0a9b2b01-1746-4aa8-9eea-eaef6a04a003
 
 ## ⏳️Em desenvolvimento... 
 
